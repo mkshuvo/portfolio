@@ -14,6 +14,11 @@ export const metadata: Metadata = {
   description: "Experienced Software Engineer with expertise in backend, frontend, and microservices. Strong proficiency in building scalable systems and collaborating with DevOps teams.",
   keywords: "Software Engineer, Full Stack Developer, React, Next.js, Node.js, TypeScript, NestJS, PHP, DevOps",
   authors: [{ name: "Mohsin Khan Shuvo" }],
+  icons: {
+    icon: "/favicon.png",
+    shortcut: "/favicon.png",
+    apple: "/favicon.png",
+  },
   openGraph: {
     title: "Mohsin Khan Shuvo - Software Engineer Portfolio",
     description: "Experienced Software Engineer with expertise in backend, frontend, and microservices.",
