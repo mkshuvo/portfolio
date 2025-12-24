@@ -14,7 +14,7 @@ import { motion } from 'framer-motion';
 
 const experiences = [
   {
-    title: 'Associate Software Engineer',
+    title: 'Software Engineer',
     company: 'Field Nation',
     period: 'Jan 2021 – Present',
     location: 'Remote',

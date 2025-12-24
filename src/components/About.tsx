@@ -12,9 +12,9 @@ import { Download, Code, People, Timeline } from '@mui/icons-material';
 import { motion } from 'framer-motion';
 
 const stats = [
-  { number: '4+', label: 'Years Experience', icon: Timeline },
+  { number: '5+', label: 'Years Experience', icon: Timeline },
   { number: '20+', label: 'Projects Completed', icon: Code },
-  { number: '5+', label: 'Technologies', icon: People },
+  { number: '7+', label: 'Technologies', icon: People },
 ];
 
 const About = () => {
